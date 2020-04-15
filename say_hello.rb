@@ -1,4 +1,4 @@
 def
-say_hello ("Gabriela")
+say_hello (nam)
 end
 say_hello
